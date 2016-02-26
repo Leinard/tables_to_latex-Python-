@@ -1,5 +1,7 @@
 # tables_to_latex-Python-
 
+NOTE: WHATCH THIS README IN 
+
 This file is a converter of data chart's you can read with Python, into a chart with LaTeX format.
 
 The expected format of the data is the next one:
