@@ -1,6 +1,6 @@
 # tables_to_latex-Python-
 
-NOTE: WHATCH THIS README IN 
+NOTE: WHATCH THIS README IN RAW MODE TO SEE THE FORMAT EXPECTED OF THE INPUT CHARTS
 
 This file is a converter of data chart's you can read with Python, into a chart with LaTeX format.
 
